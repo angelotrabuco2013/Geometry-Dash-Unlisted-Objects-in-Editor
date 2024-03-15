@@ -198,6 +198,8 @@ class $modify(EditButtonBar) {
 				addObj(397,types::stable);
 				addObj(398,types::stable);
 				addObj(399,types::stable);
+				// secret coin. placed in saws tab for a reason
+				addObj(142,types::stable);
 				break;
 			case tabs::slopes:
 				// old grey grid slopes, unknown why replaced
