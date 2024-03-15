@@ -123,6 +123,8 @@ class $modify(EditButtonBar) {
 				addObj(34,types::nonReplicable);
 				// other weird block (looks like it uses a weird mishmash of textures)
 				addObj(3800,types::nonReplicable);
+				// secret coin. placed in saws tab for a reason
+				addObj(142,types::stable);
 				}
 				break;
 			case tabs::Collectables:
@@ -198,8 +200,6 @@ class $modify(EditButtonBar) {
 				addObj(397,types::stable);
 				addObj(398,types::stable);
 				addObj(399,types::stable);
-				// secret coin. placed in saws tab for a reason
-				addObj(142,types::stable);
 				break;
 			case tabs::slopes:
 				// old grey grid slopes, unknown why replaced

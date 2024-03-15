@@ -1,3 +1,6 @@
+# v1.2.4
+ * Moved the secret coin to another tab
+
 # v1.2.3
  * Added another unlisted object: A secret coin which can only be used on main levels.
 
