@@ -1,3 +1,7 @@
+# v1.2.5
+ * Update some comments in the code
+ * Added the ability to remove broken objects (don't turn off!)
+
 # v1.2.4
  * Moved the secret coin to another tab
 

@@ -48,9 +48,9 @@ $execute{
 	listenForSettingChanges("doNotInclude", +[](bool value) {
 		unecessary=value;
 	});
-//		listenForSettingChanges("removeUnstable", +[](bool value) {
-//		noUnstable=value;
-//	});
+		listenForSettingChanges("removeUnstable", +[](bool value) {
+		noUnstable=value;
+	});
 }
 
 // gets a reference to the editor UI
@@ -123,7 +123,7 @@ class $modify(EditButtonBar) {
 				addObj(34,types::nonReplicable);
 				// other weird block (looks like it uses a weird mishmash of textures)
 				addObj(3800,types::nonReplicable);
-				// secret coin. placed in saws tab for a reason
+				// secret coin
 				addObj(142,types::stable);
 				}
 				break;
