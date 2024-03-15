@@ -1,3 +1,6 @@
+# v1.2.3
+ * Added another unlisted object: A secret coin which can only be used on main levels.
+
 # v1.2.2
  * Added another unlisted object: An early version of the end trigger that does not work
 
