@@ -125,6 +125,10 @@ class $modify(EditButtonBar) {
 				addObj(3800,types::nonReplicable);
 				// secret coin
 				addObj(142,types::stable);
+                                // unused teleport portal
+                                addObj(749,types::stable);
+                                // practice mode checkpoint. crashes the game when opening the editor, not recommended
+                                addObj(44,types::unstable);
 				}
 				break;
 			case tabs::Collectables:

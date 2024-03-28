@@ -1,3 +1,8 @@
+# v2.0.0
+v2 is here after weeks of having no updates.
+* Added more unlisted objects
+* Added new broken object: Practice Mode checkpoint
+
 # v1.2.5
  * Update some comments in the code
  * Added the ability to remove broken objects (don't turn off!)
